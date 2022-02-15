@@ -43,7 +43,7 @@ const IndexPage = () => {
         <a href="https://github.com/brandonskiser" target="_blank" rel="noreferrer">
           <GitHub />
         </a>
-        <a href="https://github.com/brandonskiser" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/brandon-kiser-6b14711a1/" target="_blank" rel="noreferrer">
           <LinkedIn />
         </a>
       </nav>
